@@ -1,4 +1,4 @@
-# Preet Sonar — portfolio
+ portfolio
 
 A minimal, research-focused portfolio for quantitative systems engineering.
 
